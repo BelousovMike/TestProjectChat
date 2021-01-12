@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\UsersControls\IPAddressUserControl.g.cs
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\MessageSender_MarkupCompile.cache
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\MessageSender_MarkupCompile.lref
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\UsersControls\MessageBox\ChatMessageBox.g.cs
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\GeneralsFiles.csprojAssemblyReference.cache

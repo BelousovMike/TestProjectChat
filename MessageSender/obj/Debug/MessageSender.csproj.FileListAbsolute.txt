@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\bin\Debug\MessageSender.dll
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\bin\Debug\MessageSender.pdb
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\MessageSender.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\UsersControls\IPAddressUserControl.g.cs
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\MessageSender_MarkupCompile.cache
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\MessageSender_MarkupCompile.lref
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\UsersControls\IPAddressUserControl.baml
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\MessageSender.g.resources
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\MessageSender.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\MessageSender.csproj.CopyComplete
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\MessageSender.dll
+C:\Users\User\source\repos\EnazaTestProject\MessageSender\obj\Debug\MessageSender.pdb
